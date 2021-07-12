@@ -1,0 +1,16 @@
+.container-fluid{
+  background: green
+}
+
+h1{
+  background: red;
+}
+body{
+  background: green
+  url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallpapersafari.com%2Fplain-wallpaper-background%2F&psig=AOvVaw2-asreDjjRRNHgQ6qZNkAG&ust=1626167901987000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCKCc_9OZ3fECFQAAAAAdAAAAABAI');
+  margin-top:0px;
+  padding-top: 0px;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
